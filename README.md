@@ -63,5 +63,5 @@ This project is licensed under the MIT License. Feel free to fork, modify, and u
 
 ✍️ Author
 Muhammad Waqas
-📧 [YourEmail@example.com]
-🔗 LinkedIn | GitHub
+📧 kbwaqas@gmail.com
+🔗 LinkedIn : https://www.linkedin.com/in/muhammad-waqas-a7532251/  | GitHub: https://github.com/muhammadwaqas156
