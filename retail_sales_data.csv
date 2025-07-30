@@ -1,0 +1,501 @@
+Date,Product,Category,Region,Units Sold,Unit Price,Revenue,Cost,Profit
+2023-02-17,T-Shirt,Clothing,Birmingham,15,249.28,3739.2,2961.6,777.6
+2023-03-18,T-Shirt,Clothing,Glasgow,16,229.26,3668.16,2505.76,1162.4
+2023-01-01,Comics,Books,Birmingham,17,19.01,323.17,251.94,71.23
+2023-12-14,Microwave,Home & Kitchen,Glasgow,17,31.93,542.81,387.77,155.04
+2023-07-07,Cookware Set,Home & Kitchen,Glasgow,1,157.47,157.47,117.35,40.12
+2023-01-10,Cookware Set,Home & Kitchen,Glasgow,10,295.84,2958.4,1891.1,1067.3
+2023-01-30,Board Game,Toys,Birmingham,8,243.99,1951.92,1556.48,395.44
+2023-02-01,Board Game,Toys,Manchester,2,190.47,380.94,263.76,117.18
+2023-07-22,Headphones,Electronics,Leeds,2,169.93,339.86,291.62,48.24
+2023-08-26,Comics,Books,London,17,117.44,1996.48,1712.41,284.07
+2023-06-03,Blender,Home & Kitchen,Manchester,19,117.85,2239.15,1566.17,672.98
+2023-12-20,Jeans,Clothing,Birmingham,12,274.62,3295.44,2223.72,1071.72
+2023-11-10,Non-Fiction,Books,Birmingham,5,161.74,808.7,726.05,82.65
+2023-04-28,Sneakers,Clothing,Glasgow,16,57.89,926.24,718.4,207.84
+2023-06-19,Non-Fiction,Books,Birmingham,2,101.95,203.9,170.92,32.98
+2023-07-28,Lego Set,Toys,London,8,43.68,349.44,251.52,97.92
+2023-08-28,Puzzle,Toys,Glasgow,7,71.15,498.05,356.3,141.75
+2023-10-09,Fiction,Books,Birmingham,6,166.57,999.42,829.62,169.8
+2023-08-25,Action Figure,Toys,Glasgow,20,180.6,3612.0,2502.6,1109.4
+2023-10-15,Non-Fiction,Books,Birmingham,9,97.73,879.57,623.16,256.41
+2023-12-31,Biography,Books,Manchester,12,296.4,3556.8,2216.64,1340.16
+2023-12-12,Blender,Home & Kitchen,Manchester,18,14.53,261.54,206.46,55.08
+2023-07-03,Comics,Books,London,16,185.14,2962.24,2149.44,812.8
+2023-10-25,Puzzle,Toys,Birmingham,15,109.84,1647.6,1173.0,474.6
+2023-03-26,Headphones,Electronics,Glasgow,18,260.81,4694.58,3069.72,1624.86
+2023-03-05,Fiction,Books,Birmingham,19,207.57,3943.83,3001.05,942.78
+2023-08-11,T-Shirt,Clothing,Manchester,16,91.24,1459.84,987.04,472.8
+2023-04-27,Non-Fiction,Books,London,4,120.48,481.92,408.44,73.48
+2023-12-13,Lego Set,Toys,London,11,296.92,3266.12,2195.38,1070.74
+2023-09-07,Sneakers,Clothing,Leeds,10,256.4,2564.0,1847.9,716.1
+2023-09-19,Laptop,Electronics,London,12,277.19,3326.28,2646.72,679.56
+2023-10-08,Board Game,Toys,Birmingham,3,40.8,122.4,103.74,18.66
+2023-11-18,Comics,Books,Manchester,12,233.51,2802.12,2219.76,582.36
+2023-12-01,Jeans,Clothing,Manchester,4,81.66,326.64,288.32,38.32
+2023-08-07,Jeans,Clothing,Birmingham,18,71.99,1295.82,1056.96,238.86
+2023-04-23,Headphones,Electronics,London,19,256.12,4866.28,4143.52,722.76
+2023-12-12,Microwave,Home & Kitchen,London,18,295.48,5318.64,3722.94,1595.7
+2023-08-25,Comics,Books,Manchester,1,293.86,293.86,244.42,49.44
+2023-11-05,T-Shirt,Clothing,Glasgow,4,85.03,340.12,287.44,52.68
+2023-03-26,Microwave,Home & Kitchen,Glasgow,6,51.21,307.26,274.14,33.12
+2023-02-16,Biography,Books,Manchester,6,122.43,734.58,511.92,222.66
+2023-07-06,Fiction,Books,Birmingham,19,242.79,4613.01,3684.67,928.34
+2023-08-03,Puzzle,Toys,Manchester,16,40.55,648.8,550.4,98.4
+2023-07-31,Camera,Electronics,Manchester,7,161.66,1131.62,896.0,235.62
+2023-04-09,Headphones,Electronics,London,6,250.28,1501.68,977.94,523.74
+2023-08-11,Microwave,Home & Kitchen,Leeds,2,81.0,162.0,107.08,54.92
+2023-09-24,Cookware Set,Home & Kitchen,Leeds,8,168.39,1347.12,1144.0,203.12
+2023-09-16,Headphones,Electronics,Birmingham,19,51.89,985.91,827.07,158.84
+2023-11-05,Headphones,Electronics,Birmingham,19,293.96,5585.24,4618.52,966.72
+2023-06-25,T-Shirt,Clothing,Birmingham,12,47.77,573.24,402.84,170.4
+2023-09-14,Smartphone,Electronics,Glasgow,16,231.25,3700.0,2340.32,1359.68
+2023-06-18,Action Figure,Toys,Manchester,6,225.99,1355.94,834.6,521.34
+2023-12-31,Camera,Electronics,Birmingham,9,184.78,1663.02,1478.43,184.59
+2023-03-31,Jacket,Clothing,London,10,288.64,2886.4,2507.3,379.1
+2023-01-26,Board Game,Toys,London,19,188.03,3572.57,2971.6,600.97
+2023-12-07,Puzzle,Toys,Leeds,1,58.76,58.76,44.32,14.44
+2023-02-04,Smartphone,Electronics,London,4,197.54,790.16,612.52,177.64
+2023-10-08,Headphones,Electronics,Glasgow,8,245.26,1962.08,1499.2,462.88
+2023-01-09,Biography,Books,Birmingham,8,45.99,367.92,314.4,53.52
+2023-04-22,Puzzle,Toys,Birmingham,18,204.07,3673.26,2963.52,709.74
+2023-10-09,Puzzle,Toys,Leeds,14,230.26,3223.64,2569.0,654.64
+2023-12-24,Laptop,Electronics,Birmingham,5,174.9,874.5,592.75,281.75
+2023-08-21,Jeans,Clothing,London,12,125.58,1506.96,1241.76,265.2
+2023-08-03,Blender,Home & Kitchen,Leeds,2,79.98,159.96,107.02,52.94
+2023-08-07,Jeans,Clothing,Manchester,15,132.49,1987.35,1549.95,437.4
+2023-04-25,Cookware Set,Home & Kitchen,Glasgow,11,24.97,274.67,169.62,105.05
+2023-03-05,Action Figure,Toys,Birmingham,4,144.96,579.84,445.48,134.36
+2023-07-17,Puzzle,Toys,Manchester,3,43.51,130.53,85.92,44.61
+2023-11-30,Vacuum Cleaner,Home & Kitchen,Leeds,13,66.79,868.27,752.05,116.22
+2023-10-11,Fiction,Books,Glasgow,20,200.27,4005.4,2778.0,1227.4
+2023-09-13,Biography,Books,Birmingham,16,165.49,2647.84,2141.44,506.4
+2023-02-17,Biography,Books,London,2,188.65,377.3,267.86,109.44
+2023-06-03,Microwave,Home & Kitchen,Birmingham,13,22.45,291.85,227.24,64.61
+2023-12-26,Fiction,Books,Leeds,11,112.7,1239.7,919.6,320.1
+2023-05-19,Vacuum Cleaner,Home & Kitchen,Manchester,11,105.23,1157.53,777.48,380.05
+2023-09-27,Laptop,Electronics,Leeds,5,214.7,1073.5,732.4,341.1
+2023-02-23,Fiction,Books,Glasgow,20,168.75,3375.0,2499.4,875.6
+2023-08-10,Comics,Books,London,14,186.38,2609.32,1932.42,676.9
+2023-03-17,Fiction,Books,London,19,59.21,1124.99,968.81,156.18
+2023-05-16,Action Figure,Toys,Birmingham,3,134.17,402.51,337.8,64.71
+2023-03-14,Comics,Books,Glasgow,2,121.29,242.58,157.9,84.68
+2023-07-02,Camera,Electronics,Glasgow,9,75.22,676.98,566.64,110.34
+2023-07-02,Jeans,Clothing,Birmingham,9,160.26,1442.34,1091.61,350.73
+2023-02-27,Comics,Books,Manchester,20,215.33,4306.6,3060.0,1246.6
+2023-08-09,Comics,Books,Manchester,7,247.19,1730.33,1273.16,457.17
+2023-01-07,Board Game,Toys,Leeds,5,26.28,131.4,87.35,44.05
+2023-09-29,Laptop,Electronics,Glasgow,11,193.7,2130.7,1812.69,318.01
+2023-09-11,Action Figure,Toys,Birmingham,8,129.83,1038.64,743.28,295.36
+2023-05-14,Camera,Electronics,London,10,231.22,2312.2,1511.8,800.4
+2023-09-19,Vacuum Cleaner,Home & Kitchen,Manchester,15,253.74,3806.1,2781.9,1024.2
+2023-10-14,Comics,Books,London,9,209.59,1886.31,1257.57,628.74
+2023-11-21,Smartphone,Electronics,Manchester,12,135.97,1631.64,1409.28,222.36
+2023-01-12,Jeans,Clothing,Leeds,12,206.32,2475.84,1801.44,674.4
+2023-12-22,Camera,Electronics,Manchester,10,42.67,426.7,274.6,152.1
+2023-12-17,Camera,Electronics,Birmingham,12,196.3,2355.6,1656.72,698.88
+2023-07-10,Sneakers,Clothing,Glasgow,13,168.03,2184.39,1525.94,658.45
+2023-09-15,Comics,Books,Leeds,2,261.08,522.16,442.76,79.4
+2023-04-19,Sneakers,Clothing,Leeds,5,286.58,1432.9,917.25,515.65
+2023-05-11,Lego Set,Toys,Birmingham,8,102.62,820.96,576.64,244.32
+2023-07-16,Non-Fiction,Books,Glasgow,11,242.68,2669.48,2234.76,434.72
+2023-07-12,Jacket,Clothing,Birmingham,1,37.3,37.3,28.9,8.4
+2023-05-13,Action Figure,Toys,Glasgow,12,249.69,2996.28,2630.04,366.24
+2023-05-01,Microwave,Home & Kitchen,Manchester,12,76.87,922.44,802.2,120.24
+2023-06-13,T-Shirt,Clothing,Leeds,20,15.37,307.4,189.6,117.8
+2023-12-06,Board Game,Toys,Birmingham,19,129.04,2451.76,1657.75,794.01
+2023-11-19,Action Figure,Toys,Glasgow,2,31.13,62.26,46.52,15.74
+2023-03-01,Sneakers,Clothing,London,6,268.11,1608.66,991.44,617.22
+2023-11-24,Lego Set,Toys,Manchester,13,158.74,2063.62,1714.44,349.18
+2023-05-09,Cookware Set,Home & Kitchen,Manchester,11,119.89,1318.79,935.33,383.46
+2023-12-07,Lego Set,Toys,Birmingham,5,258.14,1290.7,912.35,378.35
+2023-12-07,Headphones,Electronics,Leeds,12,113.02,1356.24,849.12,507.12
+2023-05-22,Vacuum Cleaner,Home & Kitchen,Manchester,13,30.8,400.4,280.67,119.73
+2023-02-18,Puzzle,Toys,London,17,62.47,1061.99,755.99,306.0
+2023-01-20,Smartphone,Electronics,London,10,260.04,2600.4,1934.0,666.4
+2023-04-03,Microwave,Home & Kitchen,London,3,78.18,234.54,154.53,80.01
+2023-05-05,Headphones,Electronics,Leeds,5,160.24,801.2,668.9,132.3
+2023-10-13,Cookware Set,Home & Kitchen,Birmingham,14,26.13,365.82,267.96,97.86
+2023-08-16,Sneakers,Clothing,Birmingham,8,143.4,1147.2,938.32,208.88
+2023-05-18,Smartphone,Electronics,Birmingham,20,11.74,234.8,159.2,75.6
+2023-09-06,Fiction,Books,Glasgow,2,132.35,264.7,166.44,98.26
+2023-01-03,Camera,Electronics,Birmingham,5,168.01,840.05,587.75,252.3
+2023-11-04,Laptop,Electronics,Manchester,6,55.51,333.06,205.38,127.68
+2023-05-04,Jacket,Clothing,Leeds,19,270.93,5147.67,3744.9,1402.77
+2023-01-05,Sneakers,Clothing,London,5,179.69,898.45,559.2,339.25
+2023-02-15,Cookware Set,Home & Kitchen,Glasgow,2,53.93,107.86,72.38,35.48
+2023-04-06,Jacket,Clothing,Leeds,10,45.25,452.5,405.1,47.4
+2023-01-25,Blender,Home & Kitchen,Leeds,11,90.04,990.44,717.86,272.58
+2023-08-28,Lego Set,Toys,Manchester,8,44.83,358.64,283.2,75.44
+2023-04-01,Blender,Home & Kitchen,Glasgow,2,231.47,462.94,378.2,84.74
+2023-01-27,Cookware Set,Home & Kitchen,Manchester,18,254.11,4573.98,3856.68,717.3
+2023-06-22,Cookware Set,Home & Kitchen,Leeds,16,50.25,804.0,562.88,241.12
+2023-12-19,Microwave,Home & Kitchen,London,13,267.6,3478.8,2751.71,727.09
+2023-08-16,Board Game,Toys,Leeds,16,24.92,398.72,349.12,49.6
+2023-04-28,Fiction,Books,Glasgow,8,277.37,2218.96,1506.88,712.08
+2023-12-22,Puzzle,Toys,Glasgow,20,215.68,4313.6,3772.4,541.2
+2023-11-23,Vacuum Cleaner,Home & Kitchen,Leeds,10,61.96,619.6,392.6,227.0
+2023-03-06,Jeans,Clothing,Birmingham,18,192.48,3464.64,2109.06,1355.58
+2024-01-01,Sneakers,Clothing,Leeds,2,69.84,139.68,116.16,23.52
+2023-02-01,Biography,Books,London,6,19.37,116.22,95.28,20.94
+2023-05-26,Laptop,Electronics,London,1,183.17,183.17,148.45,34.72
+2023-04-12,Lego Set,Toys,Glasgow,1,35.13,35.13,23.11,12.02
+2023-12-12,Smartphone,Electronics,Manchester,3,61.32,183.96,144.24,39.72
+2023-07-04,Laptop,Electronics,London,3,142.56,427.68,266.07,161.61
+2023-03-07,Fiction,Books,London,1,16.53,16.53,11.47,5.06
+2023-02-24,Lego Set,Toys,Manchester,9,123.42,1110.78,760.32,350.46
+2023-11-11,Blender,Home & Kitchen,Manchester,4,289.25,1157.0,1004.16,152.84
+2023-01-25,T-Shirt,Clothing,Birmingham,20,285.48,5709.6,4979.6,730.0
+2023-09-30,Action Figure,Toys,Glasgow,8,92.69,741.52,576.8,164.72
+2023-09-25,Board Game,Toys,Manchester,7,103.21,722.47,472.43,250.04
+2023-04-27,Biography,Books,Manchester,8,101.4,811.2,666.4,144.8
+2023-10-03,Microwave,Home & Kitchen,Glasgow,7,64.37,450.59,304.85,145.74
+2023-08-20,Jacket,Clothing,Leeds,14,46.93,657.02,554.54,102.48
+2023-04-21,Microwave,Home & Kitchen,Manchester,7,87.32,611.24,432.04,179.2
+2023-04-20,Jacket,Clothing,Birmingham,13,119.7,1556.1,1214.59,341.51
+2023-02-22,Microwave,Home & Kitchen,Glasgow,1,189.72,189.72,163.91,25.81
+2023-10-02,Camera,Electronics,Glasgow,19,46.02,874.38,572.47,301.91
+2023-04-23,Headphones,Electronics,Leeds,19,109.29,2076.51,1690.62,385.89
+2023-11-03,Jacket,Clothing,London,13,260.93,3392.09,2705.17,686.92
+2023-08-29,Jacket,Clothing,Manchester,6,254.9,1529.4,1069.02,460.38
+2023-08-06,Sneakers,Clothing,Manchester,1,49.59,49.59,30.03,19.56
+2023-08-07,Camera,Electronics,Manchester,8,38.45,307.6,186.4,121.2
+2023-05-01,T-Shirt,Clothing,Birmingham,13,48.1,625.3,539.37,85.93
+2023-12-06,Sneakers,Clothing,London,2,144.62,289.24,239.66,49.58
+2023-10-14,Sneakers,Clothing,Manchester,8,50.07,400.56,284.0,116.56
+2023-11-14,Sneakers,Clothing,London,11,53.61,589.71,506.22,83.49
+2023-11-22,Vacuum Cleaner,Home & Kitchen,Manchester,18,91.66,1649.88,1115.82,534.06
+2023-02-11,Jeans,Clothing,London,17,81.08,1378.36,1091.06,287.3
+2023-12-01,Cookware Set,Home & Kitchen,Manchester,18,19.45,350.1,263.52,86.58
+2023-06-08,Jeans,Clothing,Birmingham,18,176.01,3168.18,2066.76,1101.42
+2023-03-10,Action Figure,Toys,Manchester,13,219.42,2852.46,2418.13,434.33
+2023-12-01,Jacket,Clothing,Manchester,15,189.14,2837.1,2137.65,699.45
+2023-05-09,Comics,Books,Leeds,15,233.24,3498.6,2802.0,696.6
+2023-07-22,Puzzle,Toys,Glasgow,9,233.61,2102.49,1397.43,705.06
+2023-09-02,Smartphone,Electronics,Birmingham,20,265.9,5318.0,4608.2,709.8
+2023-11-27,Fiction,Books,Manchester,13,269.54,3504.02,2996.5,507.52
+2023-05-03,Board Game,Toys,London,9,208.32,1874.88,1322.28,552.6
+2023-08-01,Puzzle,Toys,Manchester,12,231.2,2774.4,2367.0,407.4
+2023-07-08,Non-Fiction,Books,Glasgow,5,146.51,732.55,508.6,223.95
+2023-11-17,T-Shirt,Clothing,Leeds,1,294.09,294.09,253.02,41.07
+2023-06-01,Camera,Electronics,Manchester,5,77.95,389.75,331.6,58.15
+2023-10-21,T-Shirt,Clothing,Manchester,5,161.18,805.9,630.8,175.1
+2023-10-04,Jeans,Clothing,Birmingham,11,213.82,2352.02,2043.8,308.22
+2023-10-29,Laptop,Electronics,London,6,182.07,1092.42,948.84,143.58
+2023-12-18,Laptop,Electronics,Manchester,11,270.28,2973.08,1941.06,1032.02
+2023-10-29,Laptop,Electronics,Manchester,6,124.81,748.86,449.76,299.1
+2023-09-30,Sneakers,Clothing,Glasgow,1,68.63,68.63,53.48,15.15
+2023-11-27,Biography,Books,Birmingham,20,26.44,528.8,381.0,147.8
+2023-02-01,T-Shirt,Clothing,Manchester,8,215.04,1720.32,1238.96,481.36
+2023-05-22,Non-Fiction,Books,London,15,82.12,1231.8,995.4,236.4
+2023-11-18,Vacuum Cleaner,Home & Kitchen,Glasgow,19,211.01,4009.19,3578.08,431.11
+2023-11-14,Cookware Set,Home & Kitchen,Glasgow,20,141.84,2836.8,2163.2,673.6
+2023-04-18,T-Shirt,Clothing,Leeds,20,224.77,4495.4,3788.0,707.4
+2023-06-06,Fiction,Books,Leeds,11,267.46,2942.06,2528.68,413.38
+2023-04-18,T-Shirt,Clothing,Birmingham,6,286.27,1717.62,1032.72,684.9
+2023-01-15,Laptop,Electronics,London,13,29.2,379.6,246.48,133.12
+2023-02-15,Comics,Books,London,12,104.99,1259.88,921.6,338.28
+2023-09-10,Camera,Electronics,Glasgow,5,15.72,78.6,67.7,10.9
+2023-11-25,Puzzle,Toys,Birmingham,9,102.69,924.21,778.59,145.62
+2023-09-09,Blender,Home & Kitchen,Manchester,13,154.39,2007.07,1265.29,741.78
+2023-06-01,Vacuum Cleaner,Home & Kitchen,London,12,224.89,2698.68,2333.88,364.8
+2023-03-19,Cookware Set,Home & Kitchen,Manchester,6,134.73,808.38,613.86,194.52
+2023-05-11,Sneakers,Clothing,Leeds,18,93.56,1684.08,1388.52,295.56
+2023-11-23,Board Game,Toys,Birmingham,16,294.79,4716.64,3409.44,1307.2
+2023-10-25,Comics,Books,Leeds,7,179.95,1259.65,1078.7,180.95
+2023-01-10,Jacket,Clothing,Leeds,5,147.19,735.95,567.25,168.7
+2023-12-26,Blender,Home & Kitchen,London,13,263.78,3429.14,2163.59,1265.55
+2023-01-09,Headphones,Electronics,Leeds,15,282.41,4236.15,3194.7,1041.45
+2023-04-02,T-Shirt,Clothing,Leeds,16,286.52,4584.32,3831.2,753.12
+2023-08-29,Puzzle,Toys,Manchester,9,56.49,508.41,395.1,113.31
+2023-10-08,Jeans,Clothing,London,9,256.68,2310.12,1977.39,332.73
+2023-06-27,Board Game,Toys,Leeds,19,75.21,1428.99,972.04,456.95
+2023-04-01,Board Game,Toys,Leeds,6,12.98,77.88,66.36,11.52
+2023-06-09,Vacuum Cleaner,Home & Kitchen,Leeds,8,278.89,2231.12,1828.24,402.88
+2023-07-03,Comics,Books,Manchester,19,278.54,5292.26,3824.32,1467.94
+2023-07-11,Comics,Books,Birmingham,8,291.48,2331.84,1809.84,522.0
+2023-06-17,Smartphone,Electronics,Leeds,16,20.81,332.96,273.92,59.04
+2023-07-02,T-Shirt,Clothing,Glasgow,10,133.17,1331.7,920.5,411.2
+2023-11-15,Board Game,Toys,Glasgow,4,40.75,163.0,100.72,62.28
+2023-01-05,Vacuum Cleaner,Home & Kitchen,London,5,139.01,695.05,510.3,184.75
+2023-05-13,Puzzle,Toys,Glasgow,19,279.41,5308.79,3990.76,1318.03
+2023-06-01,Fiction,Books,London,13,53.71,698.23,495.69,202.54
+2023-03-18,Puzzle,Toys,London,13,225.28,2928.64,2318.55,610.09
+2023-11-20,Lego Set,Toys,Birmingham,12,178.64,2143.68,1678.56,465.12
+2023-12-03,Headphones,Electronics,Manchester,10,159.6,1596.0,1295.2,300.8
+2023-10-01,Blender,Home & Kitchen,Glasgow,12,226.91,2722.92,2252.16,470.76
+2023-07-12,Sneakers,Clothing,Manchester,20,112.2,2244.0,1477.4,766.6
+2023-05-29,Sneakers,Clothing,London,3,203.84,611.52,449.04,162.48
+2023-08-12,Microwave,Home & Kitchen,Glasgow,14,99.91,1398.74,891.8,506.94
+2023-04-27,Camera,Electronics,Birmingham,13,227.31,2955.03,2409.29,545.74
+2023-05-21,Vacuum Cleaner,Home & Kitchen,London,18,27.7,498.6,400.86,97.74
+2023-04-28,Board Game,Toys,Glasgow,8,294.99,2359.92,2000.64,359.28
+2023-12-29,Fiction,Books,Birmingham,17,25.47,432.99,385.39,47.6
+2023-11-09,Jacket,Clothing,Leeds,2,175.55,351.1,214.16,136.94
+2023-08-21,Board Game,Toys,London,2,200.51,401.02,291.54,109.48
+2023-01-01,Jeans,Clothing,Glasgow,12,27.36,328.32,220.44,107.88
+2023-11-07,Board Game,Toys,Birmingham,12,96.96,1163.52,798.96,364.56
+2023-09-20,Non-Fiction,Books,Glasgow,11,272.7,2999.7,2585.77,413.93
+2023-07-13,T-Shirt,Clothing,Leeds,2,35.32,70.64,62.56,8.08
+2023-09-05,Lego Set,Toys,London,2,293.35,586.7,416.4,170.3
+2023-07-14,Laptop,Electronics,Glasgow,13,128.99,1676.87,1418.17,258.7
+2023-11-06,T-Shirt,Clothing,Manchester,10,145.44,1454.4,928.6,525.8
+2023-10-13,Cookware Set,Home & Kitchen,Leeds,10,59.64,596.4,378.0,218.4
+2023-09-23,Jeans,Clothing,London,2,48.04,96.08,65.82,30.26
+2023-01-15,Laptop,Electronics,Birmingham,16,12.11,193.76,126.56,67.2
+2023-05-07,Blender,Home & Kitchen,Glasgow,13,238.29,3097.77,2220.4,877.37
+2023-08-15,Fiction,Books,London,12,64.37,772.44,516.12,256.32
+2023-01-29,Jeans,Clothing,London,20,63.36,1267.2,934.0,333.2
+2023-03-07,Headphones,Electronics,Birmingham,13,299.77,3897.01,2599.22,1297.79
+2023-05-31,Board Game,Toys,Manchester,12,218.39,2620.68,2246.52,374.16
+2023-08-09,Jacket,Clothing,London,9,259.0,2331.0,1590.93,740.07
+2023-08-15,Action Figure,Toys,London,11,35.44,389.84,270.27,119.57
+2023-06-07,Comics,Books,Manchester,14,28.79,403.06,347.9,55.16
+2023-06-20,Smartphone,Electronics,Leeds,8,99.94,799.52,519.84,279.68
+2023-09-22,Jeans,Clothing,London,2,66.61,133.22,82.66,50.56
+2023-04-05,Sneakers,Clothing,Manchester,11,26.2,288.2,185.24,102.96
+2023-10-22,Board Game,Toys,Glasgow,8,252.67,2021.36,1307.76,713.6
+2023-03-15,Sneakers,Clothing,Leeds,15,77.38,1160.7,835.05,325.65
+2023-08-11,Board Game,Toys,London,3,12.53,37.59,31.92,5.67
+2023-11-17,Cookware Set,Home & Kitchen,Glasgow,11,167.11,1838.21,1114.63,723.58
+2023-05-20,Microwave,Home & Kitchen,London,1,90.06,90.06,64.03,26.03
+2023-04-20,Headphones,Electronics,Birmingham,7,223.16,1562.12,1271.41,290.71
+2023-01-28,Laptop,Electronics,London,15,283.07,4246.05,3267.6,978.45
+2023-09-13,Blender,Home & Kitchen,Leeds,20,155.3,3106.0,2663.2,442.8
+2023-07-22,Blender,Home & Kitchen,Manchester,7,139.11,973.77,660.03,313.74
+2023-06-24,Jacket,Clothing,Leeds,18,52.6,946.8,738.0,208.8
+2023-01-21,Blender,Home & Kitchen,Leeds,18,90.56,1630.08,1244.52,385.56
+2023-12-24,T-Shirt,Clothing,Birmingham,5,72.44,362.2,313.65,48.55
+2023-06-25,Microwave,Home & Kitchen,London,6,178.7,1072.2,872.94,199.26
+2023-03-29,Microwave,Home & Kitchen,Manchester,4,141.68,566.72,376.64,190.08
+2023-08-08,Fiction,Books,Birmingham,5,183.05,915.25,744.1,171.15
+2023-08-22,Lego Set,Toys,Leeds,6,209.18,1255.08,825.06,430.02
+2023-09-15,Board Game,Toys,Manchester,13,194.12,2523.56,1531.92,991.64
+2023-10-11,Non-Fiction,Books,Birmingham,1,45.39,45.39,39.52,5.87
+2023-05-28,Sneakers,Clothing,Birmingham,18,259.18,4665.24,3307.32,1357.92
+2023-03-27,Jeans,Clothing,Manchester,13,94.44,1227.72,749.58,478.14
+2023-03-27,Comics,Books,Manchester,20,228.59,4571.8,4042.4,529.4
+2023-10-17,Vacuum Cleaner,Home & Kitchen,Birmingham,5,280.85,1404.25,1123.05,281.2
+2023-05-18,Camera,Electronics,Birmingham,13,208.16,2706.08,2163.33,542.75
+2023-12-25,Board Game,Toys,Birmingham,9,13.56,122.04,100.26,21.78
+2023-12-06,Biography,Books,Manchester,5,203.84,1019.2,651.8,367.4
+2023-11-23,Jacket,Clothing,Manchester,12,162.14,1945.68,1532.64,413.04
+2023-11-06,Camera,Electronics,Glasgow,16,153.64,2458.24,2035.36,422.88
+2023-11-03,Puzzle,Toys,Glasgow,17,143.68,2442.56,1515.04,927.52
+2023-04-02,Comics,Books,Manchester,17,90.62,1540.54,1074.57,465.97
+2023-11-29,Puzzle,Toys,Birmingham,14,120.77,1690.78,1428.14,262.64
+2023-09-13,Jeans,Clothing,Leeds,4,103.79,415.16,321.0,94.16
+2023-10-26,Camera,Electronics,London,16,130.62,2089.92,1388.96,700.96
+2023-07-16,Sneakers,Clothing,Leeds,7,185.09,1295.63,1079.96,215.67
+2023-12-18,Jeans,Clothing,Leeds,6,85.21,511.26,411.72,99.54
+2023-01-11,Non-Fiction,Books,Leeds,17,285.45,4852.65,3478.88,1373.77
+2023-08-06,Microwave,Home & Kitchen,Birmingham,12,225.18,2702.16,2326.2,375.96
+2023-12-12,Smartphone,Electronics,London,4,145.81,583.24,392.4,190.84
+2023-01-31,Puzzle,Toys,London,1,176.6,176.6,128.77,47.83
+2023-11-11,Jacket,Clothing,Leeds,17,295.25,5019.25,3813.1,1206.15
+2023-04-22,Action Figure,Toys,London,1,241.24,241.24,170.69,70.55
+2023-06-03,Board Game,Toys,Glasgow,18,42.69,768.42,619.74,148.68
+2023-05-22,Laptop,Electronics,Leeds,7,190.56,1333.92,1088.92,245.0
+2023-07-07,Cookware Set,Home & Kitchen,Leeds,19,90.01,1710.19,1398.21,311.98
+2023-11-30,Camera,Electronics,Birmingham,11,48.33,531.63,411.51,120.12
+2023-05-27,Cookware Set,Home & Kitchen,Birmingham,16,15.85,253.6,154.72,98.88
+2023-08-29,T-Shirt,Clothing,London,13,174.55,2269.15,1616.16,652.99
+2023-07-29,T-Shirt,Clothing,London,19,251.5,4778.5,3580.55,1197.95
+2023-04-26,Jeans,Clothing,Manchester,2,216.78,433.56,290.36,143.2
+2023-07-12,Biography,Books,Manchester,17,20.15,342.55,216.92,125.63
+2023-11-26,Camera,Electronics,Glasgow,3,250.86,752.58,522.33,230.25
+2023-09-08,Laptop,Electronics,London,10,31.85,318.5,255.0,63.5
+2023-12-07,Biography,Books,Manchester,10,36.49,364.9,245.7,119.2
+2023-04-10,Lego Set,Toys,Glasgow,10,29.38,293.8,193.8,100.0
+2023-10-01,Action Figure,Toys,Manchester,3,32.85,98.55,61.08,37.47
+2023-04-10,Blender,Home & Kitchen,Leeds,20,189.94,3798.8,2639.6,1159.2
+2023-03-04,Jacket,Clothing,Glasgow,13,268.1,3485.3,2687.62,797.68
+2023-06-22,Laptop,Electronics,Glasgow,12,186.82,2241.84,1917.84,324.0
+2023-02-05,Biography,Books,Birmingham,18,216.39,3895.02,3153.06,741.96
+2023-09-03,Headphones,Electronics,Leeds,19,160.07,3041.33,2026.35,1014.98
+2023-08-11,Microwave,Home & Kitchen,Glasgow,14,238.27,3335.78,2155.86,1179.92
+2023-06-14,Blender,Home & Kitchen,Manchester,9,105.62,950.58,600.75,349.83
+2023-12-27,Comics,Books,Glasgow,12,249.46,2993.52,1866.48,1127.04
+2023-12-02,Puzzle,Toys,London,11,54.26,596.86,391.16,205.7
+2023-12-22,Board Game,Toys,Leeds,9,175.99,1583.91,1312.2,271.71
+2023-08-01,Sneakers,Clothing,Leeds,20,208.63,4172.6,3224.2,948.4
+2023-05-12,Vacuum Cleaner,Home & Kitchen,Birmingham,12,42.22,506.64,318.0,188.64
+2023-08-13,Fiction,Books,London,2,285.38,570.76,357.88,212.88
+2023-01-20,Action Figure,Toys,Birmingham,16,126.69,2027.04,1507.36,519.68
+2023-07-06,Jeans,Clothing,Glasgow,15,190.92,2863.8,2034.3,829.5
+2023-05-27,Biography,Books,Birmingham,5,96.5,482.5,291.8,190.7
+2023-11-19,Smartphone,Electronics,Glasgow,12,221.94,2663.28,2121.36,541.92
+2023-01-21,Vacuum Cleaner,Home & Kitchen,London,13,171.21,2225.73,1593.41,632.32
+2023-03-05,Cookware Set,Home & Kitchen,Manchester,19,279.1,5302.9,4655.95,646.95
+2023-10-15,Blender,Home & Kitchen,Birmingham,9,91.32,821.88,692.46,129.42
+2023-01-05,Non-Fiction,Books,Leeds,14,106.07,1484.98,1124.48,360.5
+2023-04-24,Action Figure,Toys,Birmingham,15,140.21,2103.15,1573.35,529.8
+2023-12-18,Vacuum Cleaner,Home & Kitchen,Manchester,16,222.48,3559.68,2311.2,1248.48
+2023-10-25,Camera,Electronics,Leeds,10,54.89,548.9,345.5,203.4
+2023-12-29,Lego Set,Toys,London,3,201.87,605.61,509.55,96.06
+2023-06-23,Action Figure,Toys,Birmingham,4,102.07,408.28,320.76,87.52
+2023-11-23,Lego Set,Toys,London,19,93.62,1778.78,1409.42,369.36
+2023-05-13,Non-Fiction,Books,Glasgow,3,140.69,422.07,326.55,95.52
+2023-01-09,Jeans,Clothing,London,3,106.21,318.63,278.46,40.17
+2023-02-23,Microwave,Home & Kitchen,Leeds,10,134.34,1343.4,868.5,474.9
+2023-04-29,Camera,Electronics,Leeds,9,248.26,2234.34,1492.2,742.14
+2023-12-31,Biography,Books,London,3,205.52,616.56,387.45,229.11
+2023-03-30,Lego Set,Toys,Birmingham,8,116.62,932.96,741.04,191.92
+2023-11-27,Biography,Books,London,12,193.81,2325.72,2002.08,323.64
+2023-01-18,Laptop,Electronics,Glasgow,15,277.18,4157.7,3474.6,683.1
+2023-03-13,Smartphone,Electronics,Manchester,20,198.61,3972.2,3155.2,817.0
+2023-03-21,Vacuum Cleaner,Home & Kitchen,London,7,258.14,1806.98,1381.66,425.32
+2023-05-23,Camera,Electronics,London,12,122.86,1474.32,1239.48,234.84
+2023-09-18,Fiction,Books,London,8,83.91,671.28,480.48,190.8
+2023-06-18,Non-Fiction,Books,London,14,44.92,628.88,402.64,226.24
+2023-04-08,Jeans,Clothing,Glasgow,19,137.36,2609.84,1627.92,981.92
+2023-12-21,Camera,Electronics,Birmingham,13,221.78,2883.14,2563.08,320.06
+2023-01-17,Blender,Home & Kitchen,Manchester,5,240.65,1203.25,1080.45,122.8
+2023-10-29,Headphones,Electronics,London,10,155.22,1552.2,1366.3,185.9
+2023-07-19,Headphones,Electronics,Glasgow,7,30.64,214.48,160.79,53.69
+2023-06-26,Camera,Electronics,Birmingham,4,263.75,1055.0,928.64,126.36
+2023-12-23,Lego Set,Toys,Manchester,4,203.33,813.32,622.84,190.48
+2023-03-27,Puzzle,Toys,Glasgow,17,264.82,4501.94,3203.31,1298.63
+2023-09-26,Headphones,Electronics,Manchester,1,273.16,273.16,189.27,83.89
+2023-09-29,Jacket,Clothing,Birmingham,14,33.21,464.94,308.28,156.66
+2023-11-01,Board Game,Toys,Birmingham,12,248.85,2986.2,2268.0,718.2
+2023-10-29,Fiction,Books,Birmingham,19,261.24,4963.56,3966.06,997.5
+2023-03-14,Lego Set,Toys,Leeds,5,232.34,1161.7,831.15,330.55
+2023-02-21,Cookware Set,Home & Kitchen,Leeds,8,167.23,1337.84,1145.44,192.4
+2023-02-10,Blender,Home & Kitchen,Manchester,16,214.85,3437.6,2432.16,1005.44
+2023-04-10,Cookware Set,Home & Kitchen,Manchester,8,66.26,530.08,416.24,113.84
+2023-05-18,Camera,Electronics,London,2,42.43,84.86,54.86,30.0
+2023-04-05,Non-Fiction,Books,London,14,133.07,1862.98,1547.84,315.14
+2023-06-05,Lego Set,Toys,Leeds,11,53.4,587.4,386.65,200.75
+2023-04-12,Non-Fiction,Books,Leeds,19,116.95,2222.05,1362.11,859.94
+2023-04-15,T-Shirt,Clothing,Birmingham,15,175.68,2635.2,1630.05,1005.15
+2023-11-02,Non-Fiction,Books,London,10,108.46,1084.6,776.0,308.6
+2023-12-10,T-Shirt,Clothing,London,5,71.86,359.3,222.85,136.45
+2023-08-26,Smartphone,Electronics,Birmingham,12,122.04,1464.48,1310.28,154.2
+2023-07-18,Vacuum Cleaner,Home & Kitchen,Manchester,20,255.71,5114.2,4219.0,895.2
+2023-05-29,Action Figure,Toys,Manchester,6,122.97,737.82,618.42,119.4
+2023-06-10,Biography,Books,Glasgow,3,90.72,272.16,186.15,86.01
+2023-11-29,Puzzle,Toys,Birmingham,20,210.32,4206.4,3717.2,489.2
+2023-02-23,T-Shirt,Clothing,Glasgow,11,298.34,3281.74,2013.77,1267.97
+2023-11-10,Vacuum Cleaner,Home & Kitchen,Glasgow,20,279.36,5587.2,4663.0,924.2
+2023-08-19,Camera,Electronics,Manchester,13,44.01,572.13,373.49,198.64
+2023-12-02,Action Figure,Toys,Leeds,10,65.61,656.1,418.4,237.7
+2023-05-06,Fiction,Books,Manchester,6,250.57,1503.42,1114.56,388.86
+2023-06-25,Biography,Books,Manchester,20,90.11,1802.2,1596.8,205.4
+2023-04-07,Cookware Set,Home & Kitchen,Birmingham,14,176.56,2471.84,1697.78,774.06
+2023-05-13,Vacuum Cleaner,Home & Kitchen,Manchester,14,229.26,3209.64,2304.82,904.82
+2023-03-23,Comics,Books,Glasgow,16,178.2,2851.2,1740.48,1110.72
+2023-09-05,Headphones,Electronics,Manchester,14,242.21,3390.94,2300.9,1090.04
+2023-11-22,Lego Set,Toys,Birmingham,7,185.62,1299.34,866.39,432.95
+2023-09-02,Comics,Books,Birmingham,3,289.98,869.94,738.18,131.76
+2023-08-12,Jeans,Clothing,London,5,240.1,1200.5,1050.35,150.15
+2023-06-04,Sneakers,Clothing,Glasgow,15,76.67,1150.05,708.15,441.9
+2023-02-13,Lego Set,Toys,Glasgow,14,207.29,2902.06,2275.0,627.06
+2023-04-07,Comics,Books,Leeds,4,87.18,348.72,259.2,89.52
+2023-11-20,Smartphone,Electronics,Leeds,4,270.29,1081.16,760.64,320.52
+2023-05-22,Lego Set,Toys,Birmingham,7,146.93,1028.51,851.34,177.17
+2023-04-17,Headphones,Electronics,Leeds,10,127.2,1272.0,887.8,384.2
+2023-11-16,Comics,Books,Leeds,14,76.76,1074.64,645.4,429.24
+2023-10-25,Microwave,Home & Kitchen,Leeds,9,57.76,519.84,415.44,104.4
+2023-09-29,Microwave,Home & Kitchen,London,18,10.12,182.16,128.7,53.46
+2023-10-05,Puzzle,Toys,Leeds,2,233.44,466.88,345.04,121.84
+2023-03-17,Camera,Electronics,London,8,246.1,1968.8,1551.12,417.68
+2023-02-16,Non-Fiction,Books,Leeds,9,257.21,2314.89,1679.67,635.22
+2023-03-24,Board Game,Toys,Manchester,11,193.45,2127.95,1294.59,833.36
+2023-07-16,Board Game,Toys,London,1,275.19,275.19,219.98,55.21
+2023-02-12,Fiction,Books,Manchester,16,237.63,3802.08,3031.04,771.04
+2023-09-30,Biography,Books,Leeds,4,14.28,57.12,43.76,13.36
+2023-09-02,T-Shirt,Clothing,Glasgow,11,170.57,1876.27,1500.95,375.32
+2023-05-07,Smartphone,Electronics,London,15,232.07,3481.05,2916.0,565.05
+2023-12-28,Sneakers,Clothing,London,8,123.17,985.36,833.04,152.32
+2023-02-08,Sneakers,Clothing,Leeds,18,157.41,2833.38,1789.38,1044.0
+2023-05-21,Biography,Books,Birmingham,14,28.42,397.88,276.36,121.52
+2023-07-02,Sneakers,Clothing,Leeds,2,22.65,45.3,28.98,16.32
+2023-08-27,Smartphone,Electronics,Leeds,19,164.46,3124.74,2674.25,450.49
+2023-03-03,Lego Set,Toys,Leeds,1,146.03,146.03,125.09,20.94
+2023-03-12,Lego Set,Toys,Leeds,1,278.8,278.8,175.14,103.66
+2023-03-12,Fiction,Books,Leeds,8,282.43,2259.44,1685.52,573.92
+2023-08-21,Fiction,Books,Manchester,19,154.29,2931.51,2394.19,537.32
+2023-03-09,Sneakers,Clothing,Manchester,7,129.03,903.21,564.48,338.73
+2023-01-01,T-Shirt,Clothing,Manchester,12,268.77,3225.24,2313.84,911.4
+2023-01-29,Jeans,Clothing,Leeds,1,94.09,94.09,81.79,12.3
+2023-06-25,Fiction,Books,Manchester,3,105.32,315.96,279.09,36.87
+2023-08-29,Comics,Books,Leeds,18,70.94,1276.92,880.56,396.36
+2023-05-11,Comics,Books,Glasgow,7,133.22,932.54,613.06,319.48
+2023-04-15,Laptop,Electronics,Glasgow,20,73.98,1479.6,1004.6,475.0
+2023-08-12,Microwave,Home & Kitchen,London,12,110.99,1331.88,1020.96,310.92
+2023-01-23,Cookware Set,Home & Kitchen,London,20,292.2,5844.0,4135.0,1709.0
+2023-04-17,Comics,Books,Glasgow,13,45.73,594.49,462.41,132.08
+2023-06-08,Biography,Books,London,4,287.42,1149.68,768.36,381.32
+2023-02-28,Jacket,Clothing,Leeds,3,37.83,113.49,75.15,38.34
+2023-01-06,Microwave,Home & Kitchen,Manchester,20,214.52,4290.4,3728.0,562.4
+2023-10-20,Action Figure,Toys,Leeds,9,159.02,1431.18,1123.65,307.53
+2023-07-02,Laptop,Electronics,Birmingham,2,108.17,216.34,171.74,44.6
+2023-04-22,Camera,Electronics,London,14,46.0,644.0,517.44,126.56
+2023-02-13,Cookware Set,Home & Kitchen,Leeds,15,188.8,2832.0,2324.85,507.15
+2023-02-10,Non-Fiction,Books,Birmingham,18,80.52,1449.36,1211.04,238.32
+2023-04-23,Blender,Home & Kitchen,Leeds,18,263.6,4744.8,3960.72,784.08
+2023-04-19,Board Game,Toys,Glasgow,14,265.03,3710.42,2320.22,1390.2
+2023-05-30,Lego Set,Toys,Manchester,9,226.15,2035.35,1700.46,334.89
+2023-06-05,Sneakers,Clothing,Leeds,4,189.96,759.84,655.28,104.56
+2023-05-15,Jacket,Clothing,Birmingham,14,265.27,3713.78,3263.96,449.82
+2023-08-21,T-Shirt,Clothing,Leeds,16,130.22,2083.52,1854.24,229.28
+2023-09-06,Camera,Electronics,Leeds,13,275.87,3586.31,2372.89,1213.42
+2023-03-17,Cookware Set,Home & Kitchen,London,2,281.11,562.22,408.06,154.16
+2023-10-01,Camera,Electronics,London,15,40.17,602.55,533.7,68.85
+2023-03-26,Board Game,Toys,Leeds,3,24.73,74.19,47.79,26.4
+2023-12-27,Lego Set,Toys,Glasgow,3,44.23,132.69,108.48,24.21
+2023-05-07,Lego Set,Toys,Glasgow,14,250.01,3500.14,2870.28,629.86
+2023-08-18,Puzzle,Toys,London,15,177.97,2669.55,2360.85,308.7
+2023-07-06,Laptop,Electronics,Leeds,10,146.05,1460.5,1168.4,292.1
+2023-08-08,T-Shirt,Clothing,Birmingham,1,82.9,82.9,59.61,23.29
+2023-11-18,Fiction,Books,Leeds,1,103.21,103.21,80.4,22.81
+2023-04-09,Laptop,Electronics,Manchester,15,233.23,3498.45,3047.4,451.05
+2023-10-31,Puzzle,Toys,London,13,214.5,2788.5,1719.9,1068.6
+2023-10-26,Fiction,Books,Manchester,5,225.4,1127.0,721.25,405.75
+2023-05-13,T-Shirt,Clothing,Manchester,17,33.56,570.52,414.63,155.89
+2023-07-22,Microwave,Home & Kitchen,London,10,295.76,2957.6,2573.5,384.1
+2023-12-15,Jacket,Clothing,London,13,255.45,3320.85,1998.49,1322.36
+2023-06-07,Puzzle,Toys,Glasgow,17,269.77,4586.09,3805.79,780.3
+2023-02-04,Microwave,Home & Kitchen,Leeds,3,112.79,338.37,255.09,83.28
+2023-10-04,Lego Set,Toys,Leeds,2,61.98,123.96,92.8,31.16
+2023-08-28,Camera,Electronics,Leeds,14,66.34,928.76,806.54,122.22
+2023-09-23,Jacket,Clothing,Leeds,3,240.63,721.89,613.8,108.09
+2023-08-02,Laptop,Electronics,Birmingham,11,140.38,1544.18,1380.94,163.24
+2023-11-14,Action Figure,Toys,Glasgow,5,269.16,1345.8,1203.8,142.0
+2023-02-23,T-Shirt,Clothing,Manchester,19,109.61,2082.59,1256.85,825.74
+2023-08-16,Cookware Set,Home & Kitchen,Birmingham,2,253.0,506.0,413.9,92.1
+2023-09-13,T-Shirt,Clothing,Manchester,8,44.3,354.4,295.76,58.64
+2023-02-28,Action Figure,Toys,Birmingham,20,117.78,2355.6,1673.4,682.2
+2023-03-13,Comics,Books,Leeds,15,253.66,3804.9,3215.55,589.35
+2023-02-20,Jacket,Clothing,Birmingham,6,255.87,1535.22,973.08,562.14
+2023-03-11,Biography,Books,Leeds,17,213.86,3635.62,2674.1,961.52
+2023-02-07,Jeans,Clothing,Birmingham,16,226.1,3617.6,3212.32,405.28
+2023-06-26,Jeans,Clothing,London,4,182.6,730.4,645.72,84.68
+2023-01-28,Board Game,Toys,London,18,177.26,3190.68,2387.88,802.8
+2023-07-20,Cookware Set,Home & Kitchen,Glasgow,19,289.59,5502.21,3997.98,1504.23
+2023-01-27,Cookware Set,Home & Kitchen,Birmingham,17,87.43,1486.31,968.66,517.65
+2023-03-02,Microwave,Home & Kitchen,Glasgow,8,60.09,480.72,380.88,99.84
+2023-10-24,Jeans,Clothing,Birmingham,18,16.47,296.46,200.7,95.76
+2023-10-09,Microwave,Home & Kitchen,London,3,254.89,764.67,670.26,94.41
+2023-12-14,Microwave,Home & Kitchen,Manchester,13,206.55,2685.15,2025.79,659.36
+2023-10-29,Jacket,Clothing,Manchester,17,61.34,1042.78,816.0,226.78
+2023-07-28,Biography,Books,Manchester,2,68.23,136.46,112.84,23.62
+2023-07-12,Smartphone,Electronics,Leeds,1,208.41,208.41,187.08,21.33
+2023-03-24,Board Game,Toys,Leeds,6,270.49,1622.94,1434.0,188.94
+2023-11-06,Non-Fiction,Books,London,20,157.33,3146.6,2825.4,321.2
+2023-02-04,Jeans,Clothing,London,2,174.65,349.3,237.74,111.56
+2023-11-03,Puzzle,Toys,Birmingham,15,55.69,835.35,547.2,288.15
+2023-06-01,Microwave,Home & Kitchen,Glasgow,9,55.63,500.67,445.77,54.9
+2023-04-16,Comics,Books,London,16,170.68,2730.88,2281.12,449.76
+2023-03-29,Laptop,Electronics,Glasgow,15,163.07,2446.05,1851.15,594.9
+2023-03-11,Cookware Set,Home & Kitchen,Leeds,16,140.72,2251.52,1600.8,650.72
+2023-07-19,T-Shirt,Clothing,Manchester,11,157.44,1731.84,1483.46,248.38
+2023-01-14,Non-Fiction,Books,Birmingham,6,37.72,226.32,202.02,24.3
+2023-10-28,Non-Fiction,Books,Birmingham,6,141.36,848.16,602.76,245.4
+2023-06-16,T-Shirt,Clothing,Leeds,3,88.25,264.75,161.73,103.02
+2023-05-17,Headphones,Electronics,Leeds,5,214.5,1072.5,755.0,317.5
+2023-07-25,Comics,Books,London,15,258.6,3879.0,2634.45,1244.55
+2023-01-08,Non-Fiction,Books,Leeds,8,197.89,1583.12,1003.84,579.28
+2023-05-02,Action Figure,Toys,Manchester,17,87.52,1487.84,1057.23,430.61
+2023-05-25,Sneakers,Clothing,Leeds,12,98.95,1187.4,948.48,238.92
